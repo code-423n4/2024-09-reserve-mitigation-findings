@@ -1,4 +1,4 @@
-# [Sponsorname] Audit
+# Reserve Core Mitigation Review
 
 Audit findings are submitted to this repo.
 
